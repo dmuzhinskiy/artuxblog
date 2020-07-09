@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'ibmplex';
+    src: url('../fonts/Ibmplex/Ibmplexsansbold.eot');
+    src: url('../fonts/Ibmplex/Ibmplexsansbold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Ibmplex/Ibmplexsansbold.woff') format('woff'),
+         url('../fonts/Ibmplex/Ibmplexsansbold.ttf') format('truetype'),
+         url('../fonts/merriweather/merriweather-regular.svg#merriweatherregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ibmplex-text';
+    src: url('../fonts/Ibmplex/Ibmplexsanstext.eot');
+    src: url('../fonts/Ibmplex/Ibmplexsanstext.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Ibmplex/Ibmplexsanstext.woff') format('woff'),
+         url('../fonts/Ibmplex/Ibmplexsanstext.ttf') format('truetype'),
+         url('../fonts/merriweather/merriweather-regular.svg#merriweatherregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ibmplex-light';
+    src: url('../fonts/Ibmplex/Ibmplexsanslight.eot');
+    src: url('../fonts/Ibmplex/Ibmplexsanslight.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Ibmplex/Ibmplexsanslight.woff') format('woff'),
+         url('../fonts/Ibmplex/Ibmplexsanslight.ttf') format('truetype'),
+         url('../fonts/merriweather/merriweather-regular.svg#merriweatherregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ibmplex-classic';
+    src: url('../fonts/Ibmplex/Ibmplexsans.eot');
+    src: url('../fonts/Ibmplex/Ibmplexsans.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Ibmplex/Ibmplexsans.woff') format('woff'),
+         url('../fonts/Ibmplex/Ibmplexsans.ttf') format('truetype'),
+         url('../fonts/merriweather/merriweather-regular.svg#merriweatherregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
